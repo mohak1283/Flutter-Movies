@@ -34,7 +34,7 @@ For help getting started with Flutter, view online
 
 ```sh
 $ git clone https://github.com/mohak1283/Flutter-Movies.git
-$ cd Fluttery-Movies/
+$ cd Flutter-Movies/
 ```
 
 #### 4. Run the app
